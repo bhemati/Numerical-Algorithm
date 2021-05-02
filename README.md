@@ -1,2 +1,2 @@
 # Numerical-Algorithm
-A linear solver written with Octave
+Exercise 1: A linear solver written with Octave
